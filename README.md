@@ -1,4 +1,4 @@
-![이미지](docs\K-20211106-678818.png)
+![이미지](docs/K-20211106-678818.png)
 [웹 스토어 주소](https://chrome.google.com/webstore/detail/view-thumbnail/oigidjlokngbamfahkkadombdbpageoc)
 
 ## 목적
